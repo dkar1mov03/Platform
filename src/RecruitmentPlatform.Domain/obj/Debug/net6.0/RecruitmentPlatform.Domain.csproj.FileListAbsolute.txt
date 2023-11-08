@@ -1,0 +1,11 @@
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.deps.json
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.AssemblyInfo.cs
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\refint\RecruitmentPlatform.Domain.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Domain\obj\Debug\net6.0\ref\RecruitmentPlatform.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\bin\Debug\net7.0\RecruitmentPlatform.Service.deps.json
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\bin\Debug\net7.0\RecruitmentPlatform.Service.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\bin\Debug\net7.0\RecruitmentPlatform.Service.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\bin\Debug\net7.0\RecruitmentPlatform.Data.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\bin\Debug\net7.0\RecruitmentPlatform.Domain.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\bin\Debug\net7.0\RecruitmentPlatform.Data.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\bin\Debug\net7.0\RecruitmentPlatform.Domain.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.csproj.AssemblyReference.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.AssemblyInfoInputs.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.AssemblyInfo.cs
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.csproj.CopyComplete
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\refint\RecruitmentPlatform.Service.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\RecruitmentPlatform.Service.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Service\obj\Debug\net7.0\ref\RecruitmentPlatform.Service.dll

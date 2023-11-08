@@ -1,0 +1,17 @@
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\bin\Debug\net6.0\RecruitmentPlatform.Data.deps.json
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\bin\Debug\net6.0\RecruitmentPlatform.Data.runtimeconfig.json
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\bin\Debug\net6.0\RecruitmentPlatform.Data.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\bin\Debug\net6.0\RecruitmentPlatform.Data.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\bin\Debug\net6.0\RecruitmentPlatform.Domain.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\bin\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.csproj.AssemblyReference.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.AssemblyInfoInputs.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.AssemblyInfo.cs
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.csproj.CopyComplete
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\refint\RecruitmentPlatform.Data.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.pdb
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.genruntimeconfig.cache
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Data\obj\Debug\net6.0\ref\RecruitmentPlatform.Data.dll

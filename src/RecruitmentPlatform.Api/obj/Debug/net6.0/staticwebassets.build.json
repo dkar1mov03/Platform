@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0CY7o9L1pm7/RgYTuTTATZsUGbYoR4BRcP40ONDqwrQ=",
+  "Source": "RecruitmentPlatform.Api",
+  "BasePath": "_content/RecruitmentPlatform.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
