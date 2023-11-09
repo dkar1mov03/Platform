@@ -927,7 +927,7 @@
       },
       "RecruitmentPlatform.Data/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.11",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11",
@@ -942,7 +942,7 @@
       },
       "RecruitmentPlatform.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/RecruitmentPlatform.Domain.dll": {}
         },
