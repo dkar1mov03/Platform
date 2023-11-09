@@ -7,7 +7,7 @@ namespace RecruitmentPlatform.Api.Middlewares
     public class ExceptionHandlermiddleWares
     {
         private readonly RequestDelegate _next;
-        private readonly ILogger _logger;
+        private readonly ILogger<ExceptionHandlermiddleWares> _logger;
 
         public ExceptionHandlermiddleWares(RequestDelegate next, ILogger<ExceptionHandlermiddleWares> logger)
         {

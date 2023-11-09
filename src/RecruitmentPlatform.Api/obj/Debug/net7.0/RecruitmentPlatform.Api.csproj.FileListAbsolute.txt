@@ -56,3 +56,13 @@ C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\
 C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\obj\Debug\net7.0\RecruitmentPlatform.Api.pdb
 C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\obj\Debug\net7.0\RecruitmentPlatform.Api.genruntimeconfig.cache
 C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\obj\Debug\net7.0\ref\RecruitmentPlatform.Api.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\HP-Victus\source\repos\RecruitmentPlatform\src\RecruitmentPlatform.Api\bin\Debug\net7.0\RecruitmentPlatform.Api.staticwebassets.runtime.json

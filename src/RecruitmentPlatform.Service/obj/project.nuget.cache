@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4Czut6c2OvGyIbHjJFfdLgPlSgctvOWP+v22yzx+9Hr2RDqW4Z5yFh9R88wHXxAdc21xEJeTmBHURgUBTS70EA==",
+  "dgSpecHash": "O6a6LmHmbWjrBsZCmh6eZ4HIFqUosVbJ0YdWH4Hewil/bicxpj0+x5o+4/DbZjqkF/a3pwifk0I/exIa1jkzPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP-Victus\\source\\repos\\RecruitmentPlatform\\src\\RecruitmentPlatform.Service\\RecruitmentPlatform.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP-Victus\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
@@ -24,6 +24,7 @@
     "C:\\Users\\HP-Victus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\HP-Victus\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
     "C:\\Users\\HP-Victus\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
     "C:\\Users\\HP-Victus\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []

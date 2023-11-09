@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using RecruitmentPlatform.Domain.Entities.Assets;
 using RecruitmentPlatform.Domain.Entities.ChatMessengers;
 using RecruitmentPlatform.Domain.Entities.Employeers;
 using RecruitmentPlatform.Domain.Entities.JobAplications;
@@ -16,9 +17,12 @@ public class AppDbContext : DbContext
     public DbSet<JobAplication> JobAplications { get; set;}
     public DbSet<JobList> JobLists { get; set; }
     public DbSet<JobSeeker> JobSeekers { get; set; }
-
+    public DbSet<Asset> Assets { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-
+        modelBuilder.Entity<JobList>()
+            .HasOne(j => j.Employeer);
+            
+            
     }
 }

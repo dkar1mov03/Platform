@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "0CY7o9L1pm7/RgYTuTTATZsUGbYoR4BRcP40ONDqwrQ=",
+  "Hash": "gtJzgF7NmV9vCPXVBd5bgrm4aI1wWipbYRGuni+XOGQ=",
   "Source": "RecruitmentPlatform.Api",
   "BasePath": "_content/RecruitmentPlatform.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RecruitmentPlatform.Api\\wwwroot",
+      "Source": "RecruitmentPlatform.Api",
+      "ContentRoot": "C:\\Users\\HP-Victus\\source\\repos\\RecruitmentPlatform\\src\\RecruitmentPlatform.Api\\wwwroot\\",
+      "BasePath": "_content/RecruitmentPlatform.Api",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

@@ -12,8 +12,8 @@ using RecruitmentPlatform.Data.DbContexts;
 namespace RecruitmentPlatform.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20231108103732_InitialMigrations")]
-    partial class InitialMigrations
+    [Migration("20231109040950_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

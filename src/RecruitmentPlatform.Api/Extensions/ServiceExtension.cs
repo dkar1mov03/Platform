@@ -4,11 +4,15 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using RecruitmentPlatform.Data.IRepositories;
 using RecruitmentPlatform.Data.Repositories;
+using RecruitmentPlatform.Domain.Entities.Assets;
+using RecruitmentPlatform.Service.Helpers;
+using RecruitmentPlatform.Service.Interfaces.IAssetServices;
 using RecruitmentPlatform.Service.Interfaces.IEmployeers;
 using RecruitmentPlatform.Service.Interfaces.IJobAplications;
 using RecruitmentPlatform.Service.Interfaces.IJobLists;
 using RecruitmentPlatform.Service.Interfaces.IJobSeekers;
 using RecruitmentPlatform.Service.Mappings;
+using RecruitmentPlatform.Service.Services.AssetServices;
 using RecruitmentPlatform.Service.Services.EmployeerServices;
 using RecruitmentPlatform.Service.Services.JobAplicationServices;
 using RecruitmentPlatform.Service.Services.JobListServices;
@@ -22,13 +26,18 @@ public static class ServiceExtension
 {
     public static void AddCustomService(this IServiceCollection services)
     {
-        services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-
-        services.AddAutoMapper(typeof(MappingProfile));
+        
         services.AddScoped<IJobAplicationService, JobAplicationService>();
         services.AddScoped<IJobSeekerService, JobSeekerService>();
         services.AddScoped<IJobListService,JobListService>();
         services.AddScoped<IEmployeerService,EmployeerService>();
+        services.AddScoped<IAssetService, AssetService>();
+
+        services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+        services.AddAutoMapper(typeof(MappingProfile));
+        services.AddScoped<WebEnvironmentHost, WebEnvironmentHost>();
+        services.AddScoped<HttpContextHelper,HttpContextHelper>();
+        services.AddScoped<MediaHelper,MediaHelper>();
     }
     public static void AddJwtService(this IServiceCollection services, IConfiguration configuration)
     {
